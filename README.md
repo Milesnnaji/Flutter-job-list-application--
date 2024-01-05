@@ -1,22 +1,19 @@
 ## Flutter Job List Application UI
 
+## Flutter Job List Application UI - Day 31
 
- -'''dart
--class Afgprogrammer extends Flutter100DaysOfC
-- video() {
-return {
-"title": "Flutter Job List Application
-"description": "Let's make a Job List A
-"day": 31,
-ー
-ー
-一
-
- 
-
-
-
+```dart
+class Afgprogrammer extends Flutter100DaysOfCode {
+  video() {
+    return {
+      "title": "Flutter Job List Application UI",
+      "description": "Let’s make a Job List App UI.",
+      "day": 31,
+    }
+  }
+}
 ```
+
 
 
 
