@@ -1,6 +1,5 @@
 ## Flutter Job List Application UI
 
-## Flutter Job List Application UI - Day 31
 
 ```dart
 
